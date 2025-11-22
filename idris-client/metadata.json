@@ -1,5 +1,0 @@
-{
-  "name": "idris-client",
-  "description": "Espace client public pour la consultation des fiches techniques IDRIS.",
-  "requestFramePermissions": []
-}
